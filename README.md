@@ -1,4 +1,4 @@
-# LeetCode Solutions — @wilkinsonjacob
+# LeetCode Solutions
 
 ---
 
